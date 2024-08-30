@@ -1,0 +1,13 @@
+# Penulisan statemen
+print("Hello World")
+
+# Penulian case
+Nama = "Sarah Amalia"
+print(Nama)
+
+Kelas = "XII 5"
+print(Kelas)
+
+# Penulisan string
+Judul = "Hari LIbur Telah Tiba"
+print(Judul)
