@@ -1,0 +1,49 @@
+# Penulisan variabel
+nilai_y = 23
+juta1 = 1000000
+nilaiA = 20.5
+
+# Tipe data
+nama_ku = "Sarah Amalia"
+umur = 18
+tinggi = 166.11
+
+# Tipe data angka satuan
+data_integer = 2
+print("data : ", data_integer)
+
+# Tipe data angka desimal
+data_float = 2.5
+print("data : ", data_float)
+
+# Tipe data teks
+nama = "Sunghoon"
+jenis_kelamin = 'L'
+alamat = """
+Jl. Samdalri, No 1,
+Kelurahan Myeondong, Korea
+"""
+agama = 'islam'
+
+# Tipe data boolean (true/false)
+nama = "Joshua Seventeen"
+alamat = "Korea"
+umur = 28
+tampan = True 
+
+print("Nama:",nama)
+print("Alamat:",alamat)
+print("Umur:",umur)
+if tampan:
+    print("Status:tampan")
+else:
+    print("Status:tidak tampan")
+
+
+# Cara mengambil input
+nama_variabel = input("Sebuah Teks")
+nama_file = input("masukkan nama file")
+
+# Cara menampilkan output
+nama = "SARAH AMALIA"
+print("Hello",nama)
